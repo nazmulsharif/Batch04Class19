@@ -1,0 +1,7 @@
+.tabs{
+	width: 500px;
+	margin: auto;
+}
+.tabs .ui-widget-header{
+	background-color: red;
+}
